@@ -1,0 +1,12 @@
+{
+  "name": "Terraform Deployment with OIDC",
+  "description": "Terraform Using OIDC for Commercial.",
+  "categories": [
+      "Terraform"
+  ],
+  "filePatterns": [
+    ".*\\.tf$",
+    ".*\\.tfvars$",
+    ".*\\.hcl$"
+  ]
+}
